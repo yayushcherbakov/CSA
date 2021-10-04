@@ -1,0 +1,45 @@
+Filled container:
+Container contains 20 elements.
+0: It is Tree: name = †ooob, age = 22. Part of Vowels = 0.6
+1: It is Shrub: name = êoost, flowering month = JANUARY. Part of Vowels = 0.4
+2: It is flower: name = ¿loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+3: It is Tree: name = êasen, age = 22. Part of Vowels = 0.4
+4: It is Tree: name = ooob, age = 22. Part of Vowels = 0.6
+5: It is Shrub: name = ¿oost, flowering month = JANUARY. Part of Vowels = 0.4
+6: It is flower: name = @loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+7: It is Tree: name = Pasen, age = 22. Part of Vowels = 0.4
+8: It is Tree: name = ∞ooob, age = 22. Part of Vowels = 0.6
+9: It is Shrub: name = `oost, flowering month = JANUARY. Part of Vowels = 0.4
+10: It is flower: name = êloweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+11: It is Tree: name = ∞asen, age = 22. Part of Vowels = 0.4
+12: It is Tree: name = pooob, age = 22. Part of Vowels = 0.6
+13: It is Shrub: name = ‡oost, flowering month = JANUARY. Part of Vowels = 0.4
+14: It is flower: name = –loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+15: It is Tree: name = 0asen, age = 22. Part of Vowels = 0.4
+16: It is Tree: name = pooob, age = 22. Part of Vowels = 0.6
+17: It is Shrub: name = Äoost, flowering month = JANUARY. Part of Vowels = 0.4
+18: It is flower: name = loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+19: It is Tree: name = Äasen, age = 22. Part of Vowels = 0.4
+Sorting time: 0
+Sorted container:
+Container contains 20 elements.
+0: It is Tree: name = Äasen, age = 22. Part of Vowels = 0.4
+1: It is Shrub: name = Äoost, flowering month = JANUARY. Part of Vowels = 0.4
+2: It is Shrub: name = êoost, flowering month = JANUARY. Part of Vowels = 0.4
+3: It is Tree: name = êasen, age = 22. Part of Vowels = 0.4
+4: It is Shrub: name = ¿oost, flowering month = JANUARY. Part of Vowels = 0.4
+5: It is Tree: name = Pasen, age = 22. Part of Vowels = 0.4
+6: It is Shrub: name = `oost, flowering month = JANUARY. Part of Vowels = 0.4
+7: It is Tree: name = ∞asen, age = 22. Part of Vowels = 0.4
+8: It is Shrub: name = ‡oost, flowering month = JANUARY. Part of Vowels = 0.4
+9: It is Tree: name = 0asen, age = 22. Part of Vowels = 0.4
+10: It is flower: name = loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+11: It is flower: name = @loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+12: It is flower: name = –loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+13: It is flower: name = êloweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+14: It is flower: name = ¿loweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+15: It is Tree: name = †ooob, age = 22. Part of Vowels = 0.6
+16: It is Tree: name = pooob, age = 22. Part of Vowels = 0.6
+17: It is Tree: name = pooob, age = 22. Part of Vowels = 0.6
+18: It is Tree: name = ∞ooob, age = 22. Part of Vowels = 0.6
+19: It is Tree: name = ooob, age = 22. Part of Vowels = 0.6
