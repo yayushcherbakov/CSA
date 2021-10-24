@@ -1,0 +1,45 @@
+Filled container:
+Container contains 20 elements.
+0: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+1: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+2: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+3: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+4: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+5: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+6: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+7: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+8: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+9: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+10: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+11: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+12: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+13: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+14: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+15: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+16: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+17: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+18: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+19: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+Sorting time: 0.001
+Sorted container:
+Container contains 20 elements.
+0: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+1: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+2: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+3: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+4: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+5: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+6: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+7: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+8: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+9: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+10: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+11: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+12: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+13: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+14: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+15: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+16: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+17: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+18: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+19: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000

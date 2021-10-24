@@ -1,0 +1,45 @@
+Filled container:
+Container contains 20 elements.
+0: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+1: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+2: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+3: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+4: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+5: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+6: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+7: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+8: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+9: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+10: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+11: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+12: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+13: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+14: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+15: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+16: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+17: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+18: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+19: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+Sorting time: 0
+Sorted container:
+Container contains 20 elements.
+0: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+1: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+2: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+3: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+4: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+5: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+6: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+7: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+8: It is Flower: name = koost, Flower type = HOME. Part of Vowels = 0.400000
+9: It is Tree: name = yasen, age = 22. Part of Vowels = 0.400000
+10: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+11: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+12: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+13: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+14: It is Flower: name = floweheeeeer, Flower type = WILD. Part of Vowels = 0.583333
+15: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+16: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+17: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+18: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
+19: It is Tree: name = dooob, age = 22. Part of Vowels = 0.600000
