@@ -1,0 +1,45 @@
+Filled container:
+Container is store 20 plants:
+1: It is Tree: name = palm, age = 687. Part of Vowels = 0.25
+2: It is Shrub: name = ivy, flowering month = MARCH. Part of Vowels = 0.3333333333333333
+3: It is Shrub: name = dog-rose, flowering month = JANUARY. Part of Vowels = 0.375
+4: It is Tree: name = willow, age = 46. Part of Vowels = 0.3333333333333333
+5: It is Tree: name = walnut, age = 642. Part of Vowels = 0.3333333333333333
+6: It is Flower: name = iris, Flower type month = HOME. Part of Vowels = 0.5
+7: It is Shrub: name = ivy, flowering month = JANUARY. Part of Vowels = 0.3333333333333333
+8: It is Flower: name = dahlia, Flower type month = HOME. Part of Vowels = 0.5
+9: It is Shrub: name = sea-buckthorn, flowering month = DECEMBER. Part of Vowels = 0.3076923076923077
+10: It is Tree: name = poplar, age = 324. Part of Vowels = 0.3333333333333333
+11: It is Flower: name = lavender, Flower type month = HOME. Part of Vowels = 0.375
+12: It is Shrub: name = dog-rose, flowering month = JUNE. Part of Vowels = 0.375
+13: It is Flower: name = lavender, Flower type month = HOME. Part of Vowels = 0.375
+14: It is Tree: name = poplar, age = 622. Part of Vowels = 0.3333333333333333
+15: It is Flower: name = lily, Flower type month = HOME. Part of Vowels = 0.25
+16: It is Shrub: name = nut-grove, flowering month = APRIL. Part of Vowels = 0.3333333333333333
+17: It is Tree: name = palm, age = 354. Part of Vowels = 0.25
+18: It is Tree: name = poplar, age = 723. Part of Vowels = 0.3333333333333333
+19: It is Tree: name = acacia, age = 278. Part of Vowels = 0.6666666666666666
+20: It is Tree: name = oak, age = 647. Part of Vowels = 0.6666666666666666
+Sorting time: 0.001995086669921875
+Sorted container:
+Container is store 20 plants:
+1: It is Tree: name = palm, age = 354. Part of Vowels = 0.25
+2: It is Flower: name = lily, Flower type month = HOME. Part of Vowels = 0.25
+3: It is Tree: name = palm, age = 687. Part of Vowels = 0.25
+4: It is Shrub: name = sea-buckthorn, flowering month = DECEMBER. Part of Vowels = 0.3076923076923077
+5: It is Tree: name = poplar, age = 622. Part of Vowels = 0.3333333333333333
+6: It is Tree: name = poplar, age = 324. Part of Vowels = 0.3333333333333333
+7: It is Tree: name = poplar, age = 723. Part of Vowels = 0.3333333333333333
+8: It is Shrub: name = nut-grove, flowering month = APRIL. Part of Vowels = 0.3333333333333333
+9: It is Tree: name = willow, age = 46. Part of Vowels = 0.3333333333333333
+10: It is Tree: name = walnut, age = 642. Part of Vowels = 0.3333333333333333
+11: It is Shrub: name = ivy, flowering month = MARCH. Part of Vowels = 0.3333333333333333
+12: It is Shrub: name = ivy, flowering month = JANUARY. Part of Vowels = 0.3333333333333333
+13: It is Shrub: name = dog-rose, flowering month = JANUARY. Part of Vowels = 0.375
+14: It is Shrub: name = dog-rose, flowering month = JUNE. Part of Vowels = 0.375
+15: It is Flower: name = lavender, Flower type month = HOME. Part of Vowels = 0.375
+16: It is Flower: name = lavender, Flower type month = HOME. Part of Vowels = 0.375
+17: It is Flower: name = dahlia, Flower type month = HOME. Part of Vowels = 0.5
+18: It is Flower: name = iris, Flower type month = HOME. Part of Vowels = 0.5
+19: It is Tree: name = oak, age = 647. Part of Vowels = 0.6666666666666666
+20: It is Tree: name = acacia, age = 278. Part of Vowels = 0.6666666666666666

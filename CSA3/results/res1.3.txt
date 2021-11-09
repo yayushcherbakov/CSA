@@ -1,0 +1,45 @@
+Filled container:
+Container is store 20 plants:
+1: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+2: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+3: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+4: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+5: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+6: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+7: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+8: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+9: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+10: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+11: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+12: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+13: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+14: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+15: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+16: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+17: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+18: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+19: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+20: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+Sorting time: 0.0009968280792236328
+Sorted container:
+Container is store 20 plants:
+1: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+2: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+3: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+4: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+5: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+6: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+7: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+8: It is Tree: name = yasen, age = 22. Part of Vowels = 0.4
+9: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+10: It is Shrub: name = koost, flowering month = JANUARY. Part of Vowels = 0.4
+11: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+12: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+13: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+14: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+15: It is Flower: name = floweheeeeer, Flower type month = HOME. Part of Vowels = 0.5833333333333334
+16: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+17: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+18: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+19: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
+20: It is Tree: name = dooob, age = 22. Part of Vowels = 0.6
